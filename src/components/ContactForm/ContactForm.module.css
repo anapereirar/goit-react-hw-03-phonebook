@@ -1,0 +1,22 @@
+.formContainer{
+    border: 1px solid gray;
+    padding: 20px;
+    width: 300px;
+    text-align: left;    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.inputField{
+    margin-top: 8px;
+    padding: 8px;
+    border-radius: 4px;
+    width: 92%;
+}
+.addBtn{
+    margin-top: 20px;
+    cursor: pointer;
+}
